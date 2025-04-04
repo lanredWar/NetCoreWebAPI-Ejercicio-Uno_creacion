@@ -1,0 +1,37 @@
+## Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+## Compilación y salida
+bin/
+obj/
+out/
+
+## Archivos de paquetes
+*.nupkg
+*.snupkg
+packages/
+*.log
+
+## Archivos de usuario y configuraciones locales
+*.userprefs
+*.csproj.user
+*.sln.docstates
+
+## Archivos generados
+*.dbmdl
+*.pidb
+*.scc
+
+## Secretos de usuario
+secrets.json
+
+## Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Archivos de configuración de Rider o JetBrains
+.idea/
+*.sln.iml
