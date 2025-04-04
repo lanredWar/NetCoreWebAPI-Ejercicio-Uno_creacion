@@ -7,6 +7,7 @@ C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\We
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\WebAPINet.dll
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\WebAPINet.pdb
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -17,6 +18,7 @@ C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\We
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\WebAPINet.csproj.CoreCompileInputs.cache
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\WebAPINet.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\WebAPINet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\WebAPINet.sourcelink.json
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\scopedcss\bundle\WebAPINet.styles.css
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\test_\Competencia_Laboral\EjerciciosAPIs\CodingConC\ASPNET\WebAPINet\WebAPINet\obj\Debug\net8.0\staticwebassets.development.json
